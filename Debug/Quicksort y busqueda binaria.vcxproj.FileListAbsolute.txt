@@ -1,0 +1,2 @@
+C:\Users\ofeli\source\repos\Quicksort y busqueda binaria\Debug\Quicksort y busqueda binaria.exe
+C:\Users\ofeli\source\repos\Quicksort y busqueda binaria\Debug\Quicksort y busqueda binaria.pdb
